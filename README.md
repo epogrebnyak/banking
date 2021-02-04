@@ -42,9 +42,15 @@ Part 2: Data and code
 
 ## Work in progress
 
-- credit risk mindmap
-- banking tweets
+- [credit risk mindmap](https://github.com/epogrebnyak/banking/issues/1)
 - understanding the balance sheet
+
+Tweets:
+
+- [Ghanan bank failures](https://twitter.com/RexKwasiDanquah/status/1290598667955699712)
+
+Data and code:
+
 - replication excercises 
 
 ## Related repos
