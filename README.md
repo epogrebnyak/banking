@@ -8,7 +8,7 @@ Anyone who wants to make sense of banks, loans and debt markets data.
 
 ## What is wrong with empiric banking studies?
 
-On entry there are plenty of open courses, news commentary and data on financial markets and banking, yet understanding of how banks work and how to trace thier work with data is very limited. Why so? 
+On entry there are plenty of open courses, news commentary and data on financial markets and banking, yet understanding of how banks work and how to trace thier work with data is very limited. [Why so?](unhappy.md)
 
 - Reason one - textbooks live in own space and empiric evidence and problems in another space that overlap casually. 
 - Reason two - bank regulation has grown in sophistication, but not necessarilty in impactfulness; few reules are easy and working as they should. 
