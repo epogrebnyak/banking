@@ -1,4 +1,4 @@
-# Banking Workbook
+# Understanding Banking
 
 Last revision: February 4, 2020
 
